@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##################################################
-##    http://github.com/dlnetworks/scripflip    ##
+##    http://github.com/dlnetworks/sc-ripflip   ##
 ##################################################
 ## aggravates rippers by changing the title as  ##
 ## many rippers write new files on title change ##
